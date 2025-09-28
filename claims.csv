@@ -1,0 +1,11 @@
+Denial.Reason.Code,Claim.Charge.Amount,Procedure.Code,Diagnosis.Code,Service.Code,Revenue.Code,Provider.Specialty,Payer
+CO-16,1250.00,99213,I10,OFFICE,0450,Internal Medicine,ACME Health
+PR-204,4200.50,27447,M17.11,SURG,0360,Orthopedics,ACME Health
+CO-197,880.75,70450,R51.9,RAD,0320,Radiology,BestCare PPO
+PAID,210.00,80050,Z00.00,LAB,0300,Pathology,BestCare PPO
+PAID,165.25,93000,R07.9,CARD,0480,Cardiology,ACME Health
+
+CO-50,1450.00,93005,R06.00,CARD,0481,Cardiology,BestCare PPO
+CO-16,350.00,36415,E78.5,LAB,0300,Pathology,ACME Health
+PAID,820.00,72100,M54.5,RAD,0320,Radiology,ACME Health
+PAID,115.00,87804,J11.1,LAB,0300,Internal Medicine,BestCare PPO

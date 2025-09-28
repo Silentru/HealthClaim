@@ -1,0 +1,3 @@
+Claim.Charge.Amount,Procedure.Code,Diagnosis.Code,Service.Code,Revenue.Code,Provider.Specialty,Payer
+975.10,99214,E11.9,OFFICE,0450,Internal Medicine,ACME Health
+3125.00,43239,K21.9,GI,0360,Gastroenterology,BestCare PPO
